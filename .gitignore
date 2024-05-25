@@ -1,0 +1,6 @@
+rp2040-pac/target/thumbv6m-none-eabi/debug/.fingerprint
+rp2040-pac/target/thumbv6m-none-eabi/debug/build
+rp2040-pac/target/thumbv6m-none-eabi/debug/deps
+rp2040-pac/target/thumbv6m-none-eabi/debug/examples
+rp2040-pac/target/thumbv6m-none-eabi/debug/incremental
+rp2040-pac/Cargo.lock
